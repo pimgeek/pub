@@ -142,7 +142,7 @@ The last of these tools— the **Strategy & Tactics Tree**, is used in large org
 
 #### The Measurement of Success
 
-The last piece of the improvement puzzle is *feedback*. There needs to be an unambiguous way to measure improvements brought about through the implemented changes. For traditional business, Dr. Goldratt developed three *non-traditional* measurements that began with the overriding concept of the system’s *goal*: **Throughput **(T), **Inventory** (I), and **Operating Expense** (OE). It is outside the scope of this book to discuss these in detail, but readers are directed to the TOC body of knowledge (see the Appendix) for discussions of these measures and how they have been adapted for many different endeavors.
+The last piece of the improvement puzzle is *feedback*. There needs to be an unambiguous way to measure improvements brought about through the implemented changes. For traditional business, Dr. Goldratt developed three *non-traditional* measurements that began with the overriding concept of the system’s *goal*: **Throughput** (T), **Inventory** (I), and **Operating Expense** (OE). It is outside the scope of this book to discuss these in detail, but readers are directed to the TOC body of knowledge (see the Appendix) for discussions of these measures and how they have been adapted for many different endeavors.
 
 ### The Categories of Legitimate Reservation
 
@@ -261,4 +261,3 @@ People sometimes don’t examine their beliefs very closely, and will, when aske
 
 [0]: #
 [1]: http://creativecommons.org/licenses/by-nc-nd/3.0/
-
