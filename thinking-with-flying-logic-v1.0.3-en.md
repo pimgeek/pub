@@ -122,11 +122,11 @@ It is possible that, after iterating through the Five Focusing Steps a few times
 
 The Thinking Processes are based on the scientific method, to which is added a simple visual language, the **Thinking Process Diagrams**, that are used for describing and reasoning about situations, arguments, and plans using the language of **Cause and Effect**. There are two basic kinds of reasoning: **Sufficient Cause** and **Necessary Condition**.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183418899.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183418899.png)
 
 **A sufficient cause for an effect**
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183445876.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183445876.png)
 
 **A necessary condition for an effect**
 
@@ -134,11 +134,11 @@ The Thinking Processes are based on the scientific method, to which is added a s
 
 From the basic Thinking Processes developed several techniques called the **Thinking Process Tools** designed to answer the three questions. The tools provide the ability to develop a complete picture of a system’s core constraints and how to manage them.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183515916.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183515916.png)
 
 The last of these tools— the **Strategy & Tactics Tree**, is used in large organizations where it is necessary to create major changes in a short period of time. However, the other five tools are applicable to systems of any size from individuals, to families, to businesses small and large. Like a physical tool kit, you can choose to use individual tools— just the right tool for the job at hand. Or, you can do a larger project where most or all of the tools may be required. When all of the tools are used, the “finished result” of one tool can easily be used as part of the “raw materials” for the next tool. Since improvement is a continuous process, you can use each tool over and over again on every pass through the Five Focusing Steps.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183528119.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183528119.png)
 
 #### The Measurement of Success
 
@@ -163,27 +163,27 @@ Similarly, when someone presents you with a Thinking Process diagram you have ne
 
 In Thinking Process diagrams, causes and effects are all represented by **entities**: rectangles that contain brief statements that are, or could be, true about reality. Flying Logic entities also have a colored bar at the top that designates the entity’s **class**— the kind of role the entity plays in the diagram of which it is part.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183541069.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183541069.png)
 
 To satisfy the clarity reservation, the **title** of an entity must be: 
 * complete, unambiguous, and grammatically correct, 
 * in the present-tense, and 
 * *simple* in that it contains a single idea with no compound statements. “Bumped and glass fell and broke,” is an example of a statement that violates all three principles. This idea should probably be expressed as three separate entities, each related to the next by a causal connection:
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183546490.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183546490.png)
 
 The causal connections between the entities must also be clear, with each step from entity to entity having a natural and obvious flow for any stakeholder who reads the diagram. Reading from one entity to another via an **edge** (also called an **arrow**) will follow one of two patterns, or **Thinking Processes**. Which Thinking Process is used depends on what kind of diagram you are working with; but within a single diagram, the meaning of the edges does not change. 
 * **Sufficient Cause Thinking**: “If **A** then **B**.” or “**A** is sufficient to cause **B**.”
 
 This pattern expresses the idea that the existence of **A** is, by itself, enough to cause the existence of **B**. Sufficient Cause Thinking is used by the **Current Reality Tree**, **Future Reality Tree**, and **Transition Tree**.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183555935.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183555935.png)
 
 * **Necessary Condition Thinking**: “If not **A** then not **B**.” or “**A** is necessary to obtain **B**.”
 
 These patterns express that **A** must exist for **B** to exist, but may not be sufficient by itself. Necessary Condition Thinking is used by the **Evaporating Cloud** and **Prerequisite Tree**.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183602032.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183602032.png)
 
 Notice that in both illustrations, the edge (arrow) looks exactly the same although the meaning is different. How you read an edge depends on which Thinking Process was used to construct the diagram.
 
@@ -191,61 +191,61 @@ Notice that in both illustrations, the edge (arrow) looks exactly the same altho
 
 This reservation asks whether an entity in the diagram *is true now*. In a Current Reality Tree, for instance, every entity in it should describe something that *is true now*. A Future Reality Tree or Transition Tree, however, can contain a mix of entities that are either true now, or would be expected to become true under certain conditions. This reservation is a warning to “check the facts” before making an untrue assertion about reality.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183608244.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183608244.png)
 
 #### Causality Existence/Cause-Effect Reversal
 
 This reservation asks, “Does **A** really cause **B**?” Often we associate two ideas because they are *correlated*, that is, they are often found in proximity to each other. However, to actually say that one thing causes another requires much stronger evidence.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183613250.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183613250.png)
 
 #### Indirect Effects
 
 Other times, an entity is an **indirect effect** of a cause, but important necessary steps are missing.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183620443.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183620443.png)
 
 #### Cause-Effect Reversal
 
 A special case of the Causality Existence reservation is **Cause-Effect Reversal**. In this case, we question whether the edge is pointed in the right direction.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183625264.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183625264.png)
 
 #### Back Edges
 
 In cases where it seems ambiguous as to which entity is the cause and which is the effect, it may be a good place to look for a self-reinforcing loop. Flying Logic can model self-reinforcing loops using **back edges**. A back edge is added whenever you attempt to create a new edges that indirectly makes an effect to be its own cause. Back edges are drawn thicker than regular edges.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183631380.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183631380.png)
 
 #### Insufficient Cause
 
 This reservation asks, “Is **A**, all by itself, sufficient to cause **B**? What else might also be necessary?” Usually a combination of factors outside our control (“Preconditions”) and factors that we influence or control (“Actions”) must combine to create a particular effect. In diagrams based on Sufficient Cause Thinking, this is modeled using a **junctor** that contains the **AND** operator. Junctors are easily created by dragging from an entity to an existing edge.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183139554.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183139554.png)
 
 When looking for insufficient causes, we should also keep in mind that a list of causes can also be *too sufficient*, or in other words, include causes that are actually not required to produce the effect. So we should also ask, “Have we listed anything as necessary that really isn’t?”
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183641106.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183641106.png)
 
 #### Additional Cause
 
 Once we have identified one sufficient cause for an effect, we are often tempted to move on, and in doing so we may overlook other causes that may either be independently causing the effect, or mutually intensifying it. This reservation asks, “Have we identified every cause of **A**? What else could also be causing **A**?”
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183645838.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183645838.png)
 
 #### Predicted Effect
 
 How can we increase our certainty that a cause we have identified is really the cause of the effects we are inclined to believe? For example, let’s say I come from a walk and discover my wallet missing. One of the first things that might pass though my mind is that my house has been robbed. But has it been robbed?
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183650927.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183650927.png)
 
 Usually a cause is responsible for more than one effect, and this reser- vation asks, “If **A** is true, what other effects in addition to **B** would we expect to see?”
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183655009.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183655009.png)
 
 If the additional predicted effects are also observed, then we can be more confident in the causality we initially identified. But if the predicted effects are **not** observed, then we may be well advised to look for additional causes.
 
-![mark](http://pimfans.hintsnet.com/blog/20170411/183659901.png)
+![mark](https://pimfans.hintsnet.com/blog/20170411/183659901.png)
 
 #### Tautology
 
