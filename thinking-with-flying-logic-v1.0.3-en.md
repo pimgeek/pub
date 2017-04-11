@@ -1,5 +1,15 @@
 # Thinking with Flying Logic
 
+![](http://sciral.com/images/sciral_logo_large.png)
+
+Documentation © 2016 Sciral
+
+Sciral
+
+Glendora, CA
+
+[FlyingLogic.com](FlyingLogic.com)
+
 ## Part I — Introduction
 
 ### About This Book
@@ -69,3 +79,8 @@ People have invented many useful tools that help us perceive the world accuratel
 Just as spreadsheets were a boon to accounting and financial planning but did not make accountants obsolete, I hope that Flying Logic will be of significant help to systems thinkers and people with a passion for making the world and its systems better. Even more, it is my hope that Flying Logic will help get more people involved in these vital topics.
 
 — Robert McNally, 2007
+
+[![知识共享许可协议](https://i.creativecommons.org/l/by-nc-nd/3.0/80x15.png)][0]  
+本作品采用[知识共享署名-非商业性使用-禁止演绎 3.0 未本地化版本许可协议][0]进行许可。
+
+[0]: http://creativecommons.org/licenses/by-nc-nd/3.0/
