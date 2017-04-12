@@ -10,9 +10,9 @@
 
 促成包容性互动模式的途径至少有两个：
 
-1) 尝试观察别人当前的认知方式和情绪状态，并且不强求别人立刻改变这种状态；
+1) 尝试观察别人当前的认知方式和情绪状态，并且不强求别人立刻改变这种情绪状态；
 
-2) 反过来（可能稍微难些），尝试观察自己当前的认知方式和情绪状态，并且适度容忍别人错误地评判自己所采用的方式和所处的状态。（此处可借鉴孔子的观点：[人不知而不愠](http://ctext.org/analects/zhs?searchu=%E4%BA%BA%E4%B8%8D%E7%9F%A5%E8%80%8C%E4%B8%8D%E6%84%A0%EF%BC%8C%E4%B8%8D%E4%BA%A6%E5%90%9B%E5%AD%90%E4%B9%8E%EF%BC%9F)，[己所不欲勿施于人](http://ctext.org/analects/zhs?searchu=%E5%B7%B1%E6%89%80%E4%B8%8D%E6%AC%B2%EF%BC%8C%E5%8B%BF%E6%96%BD%E4%BA%8E%E4%BA%BA)）
+2) 反过来（可能稍微难些），尝试观察自己当前的认知方式和情绪状态，并且 **适度容忍** 别人错误评判自己，即使他们的方式不好/情绪状态不佳。（可借鉴孔子的观点：[人不知而不愠](http://ctext.org/analects/zhs?searchu=%E4%BA%BA%E4%B8%8D%E7%9F%A5%E8%80%8C%E4%B8%8D%E6%84%A0%EF%BC%8C%E4%B8%8D%E4%BA%A6%E5%90%9B%E5%AD%90%E4%B9%8E%EF%BC%9F)，[己所不欲勿施于人](http://ctext.org/analects/zhs?searchu=%E5%B7%B1%E6%89%80%E4%B8%8D%E6%AC%B2%EF%BC%8C%E5%8B%BF%E6%96%BD%E4%BA%8E%E4%BA%BA)）
 
 * 认知方式举例
 
