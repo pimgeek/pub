@@ -8,7 +8,7 @@
     <div id="debugInfo"></div>
     <div id="output">
       <svg width="800" height="600">
-        <g/>
+        <g></g>
       </svg>
     </div>
   </div>
