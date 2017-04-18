@@ -5,7 +5,7 @@
 
 <input id="show_gosol" type="button" value="GoSol" onclick="switchDisplay('gosol_canvas');tryDraw();" />
 
-<div id="gosol_canvas">
+<div id="gosol_canvas" onload="undoDisplay('gosol_canvas');">
   <input id="hide_gosol" type="button" value="×" onclick="undoDisplay('gosol_canvas');" />
   <div>
     <div id="debugInfo"></div>
