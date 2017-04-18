@@ -19,7 +19,7 @@
 
 <script id="dot_code" type="text/graphviz">
 digraph {
-  linkdir=LR;
+  rankdir=LR;
   a -> b;
 }
 </script>
