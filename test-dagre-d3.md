@@ -17,15 +17,15 @@
   </div>
 </div>
 
-<script>
-undoDisplay('gosol_canvas');
+<script type="text/javascript">
+  undoDisplay('gosol_canvas');
 </script>
 
 <script id="dot_code" type="text/graphviz">
-digraph {
-  rankdir=LR;
-  a -> b;
-}
+  digraph {
+    rankdir=LR;
+    a -> b;
+  }
 </script>
 
 <script type="text/javascript" src="../leo/d3.min.js"></script>
