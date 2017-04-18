@@ -1,5 +1,8 @@
 ## Test Dagre-D3
 
+<link rel="stylesheet" type="text/css" href="../leo/gosol_node_styles.css" />
+<link rel="stylesheet" type="text/css" href="../leo/dagre.css" />
+
 <input id="show_gosol" type="button" value="GoSol" onclick="switchDisplay('gosol_canvas');tryDraw();" />
 
 <div id="gosol_canvas">
