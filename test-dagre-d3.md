@@ -6,20 +6,10 @@
 <input id="show_gosol" type="button" value="GoSol" onclick="switchDisplay('gosol_canvas');tryDraw();" />
 
 <div id="gosol_canvas">
-  <input id="hide_gosol" type="button" value="×" onclick="undoDisplay('gosol_canvas');" />
-  <div>
-    <div id="debugInfo"></div>
-    <div id="output">
-      <svg width="800" height="600">
-        <g></g>
-      </svg>
-    </div>
-  </div>
+  <svg width="800" height="600">
+    <g></g>
+  </svg>
 </div>
-
-<script type="text/javascript">
-  undoDisplay('gosol_canvas');
-</script>
 
 <script id="dot_code" type="text/graphviz">
   digraph {
