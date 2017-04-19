@@ -11,12 +11,12 @@
   </svg>
 </div>
 
-<textarea id="dot_code">
-digraph {
-  rankdir=LR;
-  a -> b;
-}
-</textarea>
+<script id="dot_code" type="text/graphviz">
+  digraph {
+    rankdir=LR;
+    a -> b;
+  }
+</script>
 
 <script type="text/javascript" src="../leo/d3.min.js"></script>
 <script type="text/javascript" src="../leo/graphlib-dot.js"></script>
