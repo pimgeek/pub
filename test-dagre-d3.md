@@ -12,10 +12,14 @@
 </div>
 
 <textarea id="dot_code" type="text/graphviz">
-  digraph {
-    rankdir=LR;
-    a -> b;
-  }
+digraph FlyingLogic {
+  rankdir=LR;
+  eid1 [label="A" style="filled" fillcolor="white"];
+  eid8 [label="E" style="filled" fillcolor="white"];
+  gid1 [labelType="html" label="<div style='padding: 10px;' onclick='top.editGraph(\"digraph FlyingLogic { rankdir=LR; eid1 [label=A ]; eid8 [label=E ]; subgraph cluster_eid13 { label=UnFolded eid2 [label=B ]; eid4 [label=C ]; eid5 [label=1 shape=circle ]; eid10 [label=OR shape=circle]; eid14 [label=D ]; } eid1 -> eid5; eid5 -> eid2; eid5 -> eid4; eid4 -> eid10; eid10 -> eid8; eid2 -> eid14; eid14 -> eid10; } \");tryDraw();'>Folded</div>" style="fill: silver;"]
+  eid1 -> gid1;
+  gid1 -> eid8;
+}
 </textarea>
 
 <script type="text/javascript" src="../leo/d3.min.js"></script>
