@@ -11,7 +11,7 @@
   </svg>
 </div>
 
-<textarea id="dot_code" type="text/graphviz">
+<textarea id="dot_code" onkeyup="doDisplay('gosol_canvas');tryDraw();">
 digraph FlyingLogic {
   rankdir=LR;
   eid1 [label="A" style="filled" fillcolor="white"];
