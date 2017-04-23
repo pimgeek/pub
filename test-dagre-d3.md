@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="../leo/gosol_node_styles.css" />
 <link rel="stylesheet" type="text/css" href="../leo/dagre.css" />
 
-<input id="show_gosol" type="button" value="GoSol" onclick="doDisplay('dot_code');tryDraw();" />
+<input id="show_gosol" type="button" value="GoSol" onclick="doDisplay('gosol_canvas');tryDraw();" />
 
 <div id="gosol_canvas">
   <svg width="800" height="600">
