@@ -1,6 +1,6 @@
 ## Dynalist Clipper：使用说明
 
-如果这是你第一次听说 Dynalist 这个工具，那么请借助我撰写的 推荐 [Dynalist.io 大纲笔记整理工具](https://www.zhihu.com/question/20491194/answer/87957399) 和 [Workflowy 快速上手教程](https://zhuanlan.zhihu.com/p/26824614) 做一些基本的了解，很多笔记管理爱好者用过它以后，都觉得爱不释手。
+如果这是你第一次听说 Dynalist 这个工具，那么请借助我撰写的 [推荐 Dynalist.io 大纲笔记整理工具](https://www.zhihu.com/question/20491194/answer/87957399) 和 [Workflowy 快速上手教程](https://zhuanlan.zhihu.com/p/26824614) 做一些基本的了解，很多笔记管理爱好者用过它以后，都觉得爱不释手。
 
 **--- 下面是 Clip To Workflowy 工具的用法说明 ---**
 
