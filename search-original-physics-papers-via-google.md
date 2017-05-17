@@ -4,7 +4,7 @@
 
 > 碰巧我知道高斯的英文是 Gauss，定理的英文是 Theorem，定律的英文是 Law。但库仑我就不太熟悉。  
   
-其次，我不管这一套，先去 Google 随手写了几个关键词【Kulun Gauss Theorem】试试看再说。
+然后，不管三七二十一，先去 Google 随手写了几个关键词【Kulun Gauss Theorem】试试看再说。
 
 > 你猜我找到了什么？就在 Google 搜索的第二页搜索结果里，我看到了下图：  
 >   
