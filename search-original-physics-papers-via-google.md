@@ -7,24 +7,24 @@
 其次，我不管这一套，先去 Google 随手写了几个关键词【Kulun Gauss Theorem】试试看再说。
 
 > 你猜我找到了什么？就在 Google 搜索的第二页搜索结果里，我看到了下图：  
-> 
+>   
 > ![](https://pic3.zhimg.com/70b0194c243b0bbb0fae85f659311c8e_b.jpg)  
-> 这样一来，至少我有很大的把握可以知道，库仑的英文翻译很可能就是 Coulomb ！
+> 这样一来，至少我有很大的把握可以知道，库仑的英文翻译很可能就是 Coulomb！
 
   
 再次，我分别搜索 Coulomb Law，Gauss Theorem，方向就更明确了，不是吗？
 
 > 略去截图的部分，给出我目前找到的【最接近原始文献】的网页。。。但请注意，我可不敢说这两个定律的原始文献是【英文】啊。  
-> 
-> 来自维基百科（英文版）的页面 - [Gauss's law__][0]，[Coulomb's law__][1]  
+>   
+> 来自维基百科（英文版）的页面 - [Gauss's law][0]，[Coulomb's law][1]  
 > 沿着维基百科中的两个英文页面，我也参考了对应的中文页面，中英文都看看没有坏处。  
-> 来自维基百科（中文版）的页面 - [高斯定律__][2]，[库仑定律__][3]
+> 来自维基百科（中文版）的页面 - [高斯定律][2]，[库仑定律][3]
 
   
 最后，因为手痒痒觉得还可以再进一步，我又在 Google 中尝试了以下关键词：【coulomb law original published paper】
 
-> 很幸运，这一次我在搜索结果的第一页中就找到了一个 PDF 文档链接 - [http://www.studyphysics.ca/30/coulomb.pdf__][4] （截图如下）  
-> 
+> 很幸运，这一次我在搜索结果的第一页中就找到了一个 PDF 文档链接 - [http://www.studyphysics.ca/30/coulomb.pdf][4] （截图如下）  
+>   
 > ![](https://pic1.zhimg.com/84a2be5804daf194f2acd2d0f4604848_b.jpg)
 
   
