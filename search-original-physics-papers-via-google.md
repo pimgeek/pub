@@ -8,7 +8,7 @@
 
 > 你猜我找到了什么？就在 Google 搜索的第二页搜索结果里，我看到了下图：  
 >   
-> ![](https://pic3.zhimg.com/70b0194c243b0bbb0fae85f659311c8e_b.jpg)  
+> ![](https://pimfans.hintsnet.com/pub/search-keywords-coulomb.jpg)  
 > 这样一来，至少我有很大的把握可以知道，库仑的英文翻译很可能就是 Coulomb！
 
   
@@ -25,7 +25,7 @@
 
 > 很幸运，这一次我在搜索结果的第一页中就找到了一个 PDF 文档链接 - [http://www.studyphysics.ca/30/coulomb.pdf][4] （截图如下）  
 >   
-> ![](https://pic1.zhimg.com/84a2be5804daf194f2acd2d0f4604848_b.jpg)
+> ![](https://pimfans.hintsnet.com/pub/published-paper-coulomb.jpg)
 
   
 你看，现在结果已经近在眼前了，不是吗？题主不妨用类似的技巧，对 Gauss' Theorem 也做同样的搜索调查。
