@@ -1,4 +1,4 @@
-## 文章翻译-孟菲斯大学的 ALEKS 适应性学习系统
+## 文章翻译-孟菲斯大学的 ALEKS 适应性学习系统 (wp-ed)
 
 原文：http://www.memphis.edu/jmitse/summary/aleks.php
 
