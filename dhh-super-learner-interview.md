@@ -1,4 +1,4 @@
-# 戴维·海涅迈尔·汉森（DHH）访谈：一位现实世界中的“超级学习者”
+# 戴维·海涅迈尔·汉森（DHH）访谈：一位现实世界中的“超级学习者” （wp-ed）
 
 [![img](http://1.gravatar.com/avatar/7720ad0bc92f5db97f247006cb2b3a57?s=80&d=mm&r=g)](http://www.becomingasuperhuman.com/author/getjle-vi/) [乔纳森（JONATHAN）](http://www.becomingasuperhuman.com/author/getjle-vi/)
 
